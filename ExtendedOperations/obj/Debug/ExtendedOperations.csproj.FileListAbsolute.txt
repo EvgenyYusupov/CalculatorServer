@@ -1,0 +1,14 @@
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\SimpleCalculator\bin\Debug\Extensions\ExtendedOperations.dll
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\SimpleCalculator\bin\Debug\Extensions\ExtendedOperations.pdb
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\ExtendedOperations\obj\Debug\ExtendedOperations.csproj.CoreCompileInputs.cache
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\ExtendedOperations\obj\Debug\ExtendedOperations.csproj.CopyComplete
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\ExtendedOperations\obj\Debug\ExtendedOperations.dll
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\ExtendedOperations\obj\Debug\ExtendedOperations.pdb
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\ExtendedOperations\obj\Debug\ExtendedOperations.csprojAssemblyReference.cache
+D:\PROJECTS\NET\Calc\WebAPI\bin\Extensions\ExtendedOperations.dll
+D:\PROJECTS\NET\Calc\WebAPI\bin\Extensions\ExtendedOperations.pdb
+D:\PROJECTS\NET\Calc\ExtendedOperations\obj\Debug\ExtendedOperations.csprojAssemblyReference.cache
+D:\PROJECTS\NET\Calc\ExtendedOperations\obj\Debug\ExtendedOperations.csproj.CoreCompileInputs.cache
+D:\PROJECTS\NET\Calc\ExtendedOperations\obj\Debug\ExtendedOperations.csproj.CopyComplete
+D:\PROJECTS\NET\Calc\ExtendedOperations\obj\Debug\ExtendedOperations.dll
+D:\PROJECTS\NET\Calc\ExtendedOperations\obj\Debug\ExtendedOperations.pdb

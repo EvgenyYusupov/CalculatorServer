@@ -1,0 +1,6 @@
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\SimpleCalculator.Extension\bin\Debug\SimpleCalculator.Extension.dll
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\SimpleCalculator.Extension\bin\Debug\SimpleCalculator.Extension.pdb
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\SimpleCalculator.Extension\obj\Debug\SimpleCalculator.Extension.csproj.AssemblyReference.cache
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\SimpleCalculator.Extension\obj\Debug\SimpleCalculator.Extension.csproj.CoreCompileInputs.cache
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\SimpleCalculator.Extension\obj\Debug\SimpleCalculator.Extension.dll
+D:\PROJECTS\NET\mef\MEF-Sample-master\sample\SimpleCalculator.Extension\obj\Debug\SimpleCalculator.Extension.pdb
